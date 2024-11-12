@@ -1,0 +1,220 @@
+2024-11-01 15:28:30.620 | SUCCESS  | __main__:on_startup:10 - Бот запущен
+2024-11-01 15:28:33.160 | SUCCESS  | __main__:on_shutdown:14 - Бот остановлен
+2024-11-01 15:28:33.417 | INFO     | __main__:<module>:34 - Работа программы принудительно завершена
+2024-11-01 18:26:40.736 | SUCCESS  | __main__:on_startup:10 - Бот запущен
+2024-11-01 18:27:31.060 | SUCCESS  | __main__:on_shutdown:14 - Бот остановлен
+2024-11-01 18:27:31.321 | INFO     | __main__:<module>:34 - Работа программы принудительно завершена
+2024-11-01 18:28:37.017 | SUCCESS  | __main__:on_startup:10 - Бот запущен
+2024-11-01 18:34:18.420 | SUCCESS  | __main__:on_shutdown:14 - Бот остановлен
+2024-11-01 18:34:18.680 | INFO     | __main__:<module>:34 - Работа программы принудительно завершена
+2024-11-01 18:39:30.407 | SUCCESS  | __main__:on_startup:12 - Бот запущен
+2024-11-01 18:40:06.322 | SUCCESS  | __main__:on_shutdown:16 - Бот остановлен
+2024-11-01 18:40:06.584 | INFO     | __main__:<module>:42 - Работа программы принудительно завершена
+2024-11-01 18:40:09.248 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-01 18:40:40.311 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-01 18:40:40.571 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-01 19:50:55.569 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-01 19:56:48.215 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-01 19:56:48.473 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-01 19:56:51.005 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-01 19:59:53.445 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-01 19:59:53.710 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-01 20:20:56.781 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-01 20:24:50.876 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-01 20:24:51.132 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-01 20:24:53.807 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-01 20:26:12.131 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-01 20:26:12.387 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-01 20:27:02.411 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-01 20:27:05.236 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-01 20:27:05.493 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-01 20:28:13.601 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-01 20:29:58.290 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-01 20:29:58.554 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-01 20:31:05.599 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-01 20:32:27.215 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-01 20:32:56.601 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-01 20:32:56.860 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-01 20:41:30.754 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-01 20:48:39.838 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-01 20:48:40.101 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-07 23:10:44.268 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-07 23:11:02.149 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-07 23:11:02.414 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-07 23:11:41.388 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-07 23:15:46.261 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-07 23:15:46.515 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-07 23:16:41.061 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-07 23:17:55.715 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-07 23:17:55.968 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-07 23:17:58.403 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-07 23:19:29.373 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-07 23:19:29.628 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-07 23:23:44.183 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-07 23:24:04.098 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-07 23:24:04.350 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-07 23:24:45.884 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-07 23:24:47.968 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-07 23:24:48.224 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-07 23:24:56.605 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-07 23:25:52.986 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-07 23:25:53.252 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-07 23:25:55.726 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-07 23:26:45.519 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-07 23:26:45.786 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-07 23:26:48.586 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-07 23:27:16.444 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-07 23:27:16.708 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-07 23:27:19.213 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-07 23:30:23.562 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-07 23:30:23.819 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-07 23:30:26.267 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-07 23:31:25.081 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-07 23:31:25.347 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-07 23:31:28.091 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-07 23:33:10.197 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-07 23:33:10.449 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-07 23:33:13.004 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-07 23:34:46.087 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-07 23:34:46.344 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-07 23:47:30.632 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-07 23:48:35.679 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-07 23:48:35.944 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-07 23:48:38.485 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-07 23:55:13.862 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-07 23:55:14.124 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-07 23:55:16.738 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-07 23:56:57.710 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-07 23:56:57.964 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-07 23:57:00.541 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-07 23:57:13.346 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-07 23:57:13.610 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-07 23:57:16.199 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-08 00:02:45.106 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-08 00:02:45.368 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-08 00:02:48.154 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-08 00:03:32.134 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-08 00:03:32.388 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-08 00:03:35.101 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-08 00:06:17.367 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-08 00:06:17.633 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 15:27:18.187 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 15:37:40.617 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 15:37:40.875 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 15:37:43.222 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 15:38:59.286 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 15:38:59.550 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 15:39:02.093 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 15:39:38.735 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 15:39:39.002 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 15:39:42.215 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 15:42:55.755 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 15:42:56.009 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 15:42:58.801 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 15:44:30.241 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 15:44:30.508 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 15:44:33.267 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 15:45:23.939 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 15:45:24.205 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 15:46:37.551 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 15:48:30.045 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 15:48:30.298 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 15:49:46.167 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 15:50:09.748 | INFO     | dialogs.main:city_handler:15 - City received: краснодар
+2024-11-11 16:14:40.570 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 16:14:40.831 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 23:00:59.516 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 23:01:07.858 | INFO     | dialogs.main:city_handler:15 - City received: краснодар
+2024-11-11 23:01:07.858 | INFO     | telegram_bot.parser:forecast_parser:7 - Fetching weather for city: None
+2024-11-11 23:01:18.254 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 23:01:18.806 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 23:01:21.481 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 23:01:29.161 | INFO     | dialogs.main:city_handler:15 - City received: moscow
+2024-11-11 23:01:29.161 | INFO     | telegram_bot.parser:forecast_parser:7 - Fetching weather for city: None
+2024-11-11 23:03:16.649 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 23:03:16.905 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 23:04:52.478 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 23:05:01.873 | INFO     | dialogs.main:city_handler:15 - City received: krasnodar
+2024-11-11 23:05:01.873 | WARNING  | dialogs.forecast:get_forecast:16 - City not found in dialog_data. Please check city_handler.
+2024-11-11 23:05:45.277 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 23:05:45.538 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 23:05:48.192 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 23:06:00.685 | INFO     | dialogs.main:city_handler:15 - City received: london
+2024-11-11 23:06:00.685 | WARNING  | dialogs.forecast:get_forecast:16 - City not found in dialog_data. Please check city_handler.
+2024-11-11 23:06:19.797 | WARNING  | dialogs.forecast:get_forecast:16 - City not found in dialog_data. Please check city_handler.
+2024-11-11 23:06:23.749 | WARNING  | dialogs.forecast:get_forecast:16 - City not found in dialog_data. Please check city_handler.
+2024-11-11 23:07:16.400 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 23:07:16.656 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 23:07:19.204 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 23:07:27.447 | INFO     | dialogs.main:city_handler:15 - City received: london
+2024-11-11 23:07:27.447 | WARNING  | dialogs.forecast:get_forecast:15 - City not found in dialog_data. Please check city_handler.
+2024-11-11 23:10:57.070 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 23:10:57.339 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 23:11:00.169 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 23:11:19.703 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 23:11:19.970 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 23:11:22.604 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 23:11:27.211 | INFO     | dialogs.main:city_handler:16 - City received: london
+2024-11-11 23:11:27.212 | INFO     | dialogs.forecast:get_forecast:14 - city in getter is None
+2024-11-11 23:11:27.212 | WARNING  | dialogs.forecast:get_forecast:16 - City not found in dialog_data. Please check city_handler.
+2024-11-11 23:14:22.779 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 23:14:23.038 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 23:20:23.309 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 23:20:35.363 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 23:21:13.829 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 23:21:16.997 | INFO     | dialogs.main:city_handler:16 - City received: london
+2024-11-11 23:21:16.997 | INFO     | dialogs.forecast:get_forecast:14 - city in getter is None
+2024-11-11 23:21:16.997 | WARNING  | dialogs.forecast:get_forecast:16 - City not found in dialog_data. Please check city_handler.
+2024-11-11 23:26:07.450 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 23:26:07.706 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 23:26:10.413 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 23:26:15.340 | INFO     | dialogs.main:city_handler:16 - City received: москва
+2024-11-11 23:26:15.341 | INFO     | dialogs.forecast:get_forecast:14 - city in getter is None
+2024-11-11 23:26:15.341 | WARNING  | dialogs.forecast:get_forecast:16 - City not found in dialog_data. Please check city_handler.
+2024-11-11 23:26:26.639 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 23:26:26.892 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 23:36:23.279 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 23:36:28.501 | INFO     | dialogs.main:city_handler:16 - City received: moscow
+2024-11-11 23:36:28.501 | INFO     | dialogs.forecast:get_forecast:14 - city in getter is None
+2024-11-11 23:36:28.501 | WARNING  | dialogs.forecast:get_forecast:16 - City not found in dialog_data. Please check city_handler.
+2024-11-11 23:37:13.644 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 23:37:13.907 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 23:37:16.605 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 23:37:26.555 | INFO     | dialogs.main:city_handler:16 - City received: new
+2024-11-11 23:37:26.556 | INFO     | dialogs.forecast:get_forecast:14 - city in getter is None
+2024-11-11 23:39:29.394 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 23:39:29.661 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 23:41:39.899 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 23:41:45.060 | INFO     | dialogs.main:city_handler:16 - City received: ml
+2024-11-11 23:41:45.061 | INFO     | dialogs.forecast:get_forecast:14 - city in getter is {'city': 'ml'}
+2024-11-11 23:41:45.061 | INFO     | dialogs.forecast:get_forecast:18 - Fetching weather for city in get_forecast: {'city': 'ml'}
+2024-11-11 23:41:45.061 | INFO     | telegram_bot.parser:forecast_parser:7 - Fetching weather for city: {'city': 'ml'}
+2024-11-11 23:42:06.775 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 23:42:07.041 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 23:42:09.727 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 23:42:13.841 | INFO     | dialogs.main:city_handler:16 - City received: moscow
+2024-11-11 23:42:13.841 | INFO     | dialogs.forecast:get_forecast:14 - city in getter is dict_values(['moscow'])
+2024-11-11 23:42:13.841 | INFO     | dialogs.forecast:get_forecast:18 - Fetching weather for city in get_forecast: dict_values(['moscow'])
+2024-11-11 23:42:13.841 | INFO     | telegram_bot.parser:forecast_parser:7 - Fetching weather for city: dict_values(['moscow'])
+2024-11-11 23:42:39.492 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 23:42:39.749 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-11 23:42:42.392 | SUCCESS  | __main__:on_startup:14 - Бот запущен
+2024-11-11 23:42:46.758 | INFO     | dialogs.main:city_handler:16 - City received: moscow
+2024-11-11 23:42:46.758 | INFO     | dialogs.forecast:get_forecast:14 - city in getter is moscow
+2024-11-11 23:42:46.759 | INFO     | dialogs.forecast:get_forecast:18 - Fetching weather for city in get_forecast: moscow
+2024-11-11 23:42:46.759 | INFO     | telegram_bot.parser:forecast_parser:7 - Fetching weather for city: moscow
+2024-11-11 23:44:01.264 | INFO     | dialogs.forecast:get_forecast:14 - city in getter is moscow
+2024-11-11 23:44:01.264 | INFO     | dialogs.forecast:get_forecast:18 - Fetching weather for city in get_forecast: moscow
+2024-11-11 23:44:01.264 | INFO     | telegram_bot.parser:forecast_parser:7 - Fetching weather for city: moscow
+2024-11-11 23:49:59.670 | SUCCESS  | __main__:on_shutdown:18 - Бот остановлен
+2024-11-11 23:49:59.929 | INFO     | __main__:<module>:44 - Работа программы принудительно завершена
+2024-11-12 17:14:09.138 | SUCCESS  | __main__:on_startup:15 - Бот запущен
+2024-11-12 17:14:27.300 | INFO     | dialogs.main:city_handler:16 - City received: moscow
+2024-11-12 17:14:27.301 | INFO     | dialogs.forecast:get_forecast:14 - city in getter is moscow
+2024-11-12 17:14:27.301 | INFO     | dialogs.forecast:get_forecast:18 - Fetching weather for city in get_forecast: moscow
+2024-11-12 17:14:27.301 | INFO     | telegram_bot.parser:forecast_parser:7 - Fetching weather for city: moscow
+2024-11-12 17:14:37.295 | INFO     | dialogs.forecast:get_forecast:14 - city in getter is moscow
+2024-11-12 17:14:37.296 | INFO     | dialogs.forecast:get_forecast:18 - Fetching weather for city in get_forecast: moscow
+2024-11-12 17:14:37.296 | INFO     | telegram_bot.parser:forecast_parser:7 - Fetching weather for city: moscow
+2024-11-12 17:14:47.204 | SUCCESS  | __main__:on_shutdown:19 - Бот остановлен
+2024-11-12 17:14:47.470 | INFO     | __main__:<module>:45 - Работа программы принудительно завершена
