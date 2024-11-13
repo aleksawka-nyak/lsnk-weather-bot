@@ -5,11 +5,11 @@ from loguru import logger
 def forecast_parser(city: str):
     """Получает информацию о погоде для заданного города."""
     logger.info(f"Fetching weather for city: {city}")
-    url = f'https://wttr.in/{city}?format=3'  # Форматируем URL для запроса
+    url = f'https://wttr.in/{city}?T&m&0&lang=ru'  # Форматируем URL для запроса
     response = requests.get(url)
 
     if response.status_code == 200:
-        data = response.text.splitlines()
+        data = str(response.text)
         if data:
             # # Разделяем строку на отдельные значения
             # weather_info = data[0].split()
@@ -28,9 +28,9 @@ def forecast_parser(city: str):
             #     "wind": wind,
             #     "pressure": pressure
             # }
-            return data
+            return (data)
 
         else:
-            raise ValueError("Не удалось получить данные о погоде.")
+            return ValueError("Не удалось получить данные о погоде.")
     else:
-        raise ValueError("Не удалось получить данные о погоде. Проверьте название города.")
+        return ValueError("Не удалось получить данные о погоде. Проверьте название города.")
