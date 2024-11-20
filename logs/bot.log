@@ -963,3 +963,183 @@
 2024-11-14 22:31:26.586 | INFO     | telegram_bot.parser:forecast_parser:9 - Fetching weather for city: заебок
 2024-11-14 22:31:31.302 | SUCCESS  | __main__:on_shutdown:31 - Бот остановлен
 2024-11-14 22:31:31.558 | INFO     | __main__:<module>:88 - Работа программы принудительно завершена
+2024-11-15 18:55:29.077 | SUCCESS  | __main__:on_startup:27 - Бот запущен
+2024-11-15 18:55:37.529 | INFO     | handlers.city_handler:city_handler:15 - City received: Москва
+2024-11-15 18:55:37.529 | INFO     | dialogs.forecast:get_forecast:27 - city in getter is Москва
+2024-11-15 18:55:37.530 | INFO     | dialogs.forecast:get_forecast:31 - Fetching weather for city in get_forecast: Москва
+2024-11-15 18:55:37.530 | INFO     | telegram_bot.parser:forecast_parser:9 - Fetching weather for city: Москва
+2024-11-15 18:55:43.105 | INFO     | handlers.city_handler:city_handler:15 - City received: Урюпин
+2024-11-15 18:55:43.105 | INFO     | dialogs.forecast:get_forecast:27 - city in getter is Урюпин
+2024-11-15 18:55:43.105 | INFO     | dialogs.forecast:get_forecast:31 - Fetching weather for city in get_forecast: Урюпин
+2024-11-15 18:55:43.105 | INFO     | telegram_bot.parser:forecast_parser:9 - Fetching weather for city: Урюпин
+2024-11-15 18:55:59.104 | SUCCESS  | __main__:on_shutdown:31 - Бот остановлен
+2024-11-15 18:55:59.358 | INFO     | __main__:<module>:88 - Работа программы принудительно завершена
+2024-11-15 19:03:17.776 | SUCCESS  | __main__:on_startup:27 - Бот запущен
+2024-11-15 19:04:05.418 | SUCCESS  | __main__:on_shutdown:31 - Бот остановлен
+2024-11-15 19:04:05.672 | INFO     | __main__:<module>:88 - Работа программы принудительно завершена
+2024-11-15 19:04:15.820 | SUCCESS  | __main__:on_startup:27 - Бот запущен
+2024-11-15 19:04:34.049 | INFO     | handlers.city_handler:city_handler:15 - City received: Залупа
+2024-11-15 19:04:34.049 | INFO     | dialogs.forecast:get_forecast:27 - city in getter is Залупа
+2024-11-15 19:04:34.049 | INFO     | dialogs.forecast:get_forecast:31 - Fetching weather for city in get_forecast: Залупа
+2024-11-15 19:04:34.049 | INFO     | telegram_bot.parser:forecast_parser:9 - Fetching weather for city: Залупа
+2024-11-15 19:04:37.538 | INFO     | dialogs.forecast:add_favourite:18 - Залупа is added to favourites
+2024-11-15 19:04:37.719 | INFO     | dialogs.forecast:get_forecast:27 - city in getter is Залупа
+2024-11-15 19:04:37.719 | INFO     | dialogs.forecast:get_forecast:31 - Fetching weather for city in get_forecast: Залупа
+2024-11-15 19:04:37.719 | INFO     | telegram_bot.parser:forecast_parser:9 - Fetching weather for city: Залупа
+2024-11-15 19:06:37.384 | SUCCESS  | __main__:on_shutdown:31 - Бот остановлен
+2024-11-15 19:06:37.649 | INFO     | __main__:<module>:88 - Работа программы принудительно завершена
+2024-11-15 19:06:40.190 | SUCCESS  | __main__:on_startup:27 - Бот запущен
+2024-11-15 19:06:44.121 | INFO     | handlers.city_handler:city_handler:15 - City received: Краснодар
+2024-11-15 19:06:44.122 | INFO     | dialogs.forecast:get_forecast:27 - city in getter is Краснодар
+2024-11-15 19:06:44.122 | INFO     | dialogs.forecast:get_forecast:31 - Fetching weather for city in get_forecast: Краснодар
+2024-11-15 19:06:44.122 | INFO     | telegram_bot.parser:forecast_parser:9 - Fetching weather for city: Краснодар
+2024-11-15 19:11:28.785 | INFO     | handlers.city_handler:city_handler:15 - City received: Санкт-Петербург
+2024-11-15 19:11:28.785 | INFO     | dialogs.forecast:get_forecast:27 - city in getter is Санкт-Петербург
+2024-11-15 19:11:28.785 | INFO     | dialogs.forecast:get_forecast:31 - Fetching weather for city in get_forecast: Санкт-Петербург
+2024-11-15 19:11:28.785 | INFO     | telegram_bot.parser:forecast_parser:9 - Fetching weather for city: Санкт-Петербург
+2024-11-15 19:11:30.779 | INFO     | handlers.city_handler:city_handler:15 - City received: Москва
+2024-11-15 19:11:30.780 | INFO     | dialogs.forecast:get_forecast:27 - city in getter is Москва
+2024-11-15 19:11:30.780 | INFO     | dialogs.forecast:get_forecast:31 - Fetching weather for city in get_forecast: Москва
+2024-11-15 19:11:30.780 | INFO     | telegram_bot.parser:forecast_parser:9 - Fetching weather for city: Москва
+2024-11-15 19:14:56.829 | SUCCESS  | __main__:on_shutdown:31 - Бот остановлен
+2024-11-15 19:14:57.084 | INFO     | __main__:<module>:88 - Работа программы принудительно завершена
+2024-11-15 19:14:59.840 | SUCCESS  | __main__:on_startup:27 - Бот запущен
+2024-11-15 19:15:08.519 | INFO     | handlers.city_handler:city_handler:15 - City received: Москва
+2024-11-15 19:15:08.520 | INFO     | dialogs.forecast:get_forecast:27 - city in getter is Москва
+2024-11-15 19:15:08.520 | INFO     | dialogs.forecast:get_forecast:31 - Fetching weather for city in get_forecast: Москва
+2024-11-15 19:15:08.520 | INFO     | telegram_bot.parser:forecast_parser:9 - Fetching weather for city: Москва
+2024-11-15 19:16:41.108 | SUCCESS  | __main__:on_shutdown:31 - Бот остановлен
+2024-11-15 19:16:41.363 | INFO     | __main__:<module>:88 - Работа программы принудительно завершена
+2024-11-15 19:22:38.765 | SUCCESS  | __main__:on_startup:25 - Бот запущен
+2024-11-15 19:24:18.689 | INFO     | handlers.city_handler:city_handler:15 - City received: Москва
+2024-11-15 19:24:18.689 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Москва
+2024-11-15 19:24:18.690 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Москва
+2024-11-15 19:24:18.690 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Москва
+2024-11-15 19:24:20.517 | INFO     | handlers.city_handler:city_handler:15 - City received: Санкт-Петербург
+2024-11-15 19:24:20.517 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Санкт-Петербург
+2024-11-15 19:24:20.517 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Санкт-Петербург
+2024-11-15 19:24:20.517 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Санкт-Петербург
+2024-11-15 19:24:22.005 | INFO     | handlers.city_handler:city_handler:15 - City received: Краснодар
+2024-11-15 19:24:22.005 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Краснодар
+2024-11-15 19:24:22.005 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Краснодар
+2024-11-15 19:24:22.005 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Краснодар
+2024-11-15 19:24:24.700 | INFO     | dialogs.forecast:add_favourite:17 - Краснодар is added to favourites
+2024-11-15 19:24:24.775 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Краснодар
+2024-11-15 19:24:24.776 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Краснодар
+2024-11-15 19:24:24.776 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Краснодар
+2024-11-15 19:24:26.915 | INFO     | dialogs.forecast:add_favourite:17 - Краснодар is added to favourites
+2024-11-15 19:24:26.999 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Краснодар
+2024-11-15 19:24:26.999 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Краснодар
+2024-11-15 19:24:26.999 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Краснодар
+2024-11-15 19:24:28.440 | INFO     | dialogs.forecast:add_favourite:17 - Краснодар is added to favourites
+2024-11-15 19:24:28.588 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Краснодар
+2024-11-15 19:24:28.589 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Краснодар
+2024-11-15 19:24:28.589 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Краснодар
+2024-11-15 19:24:29.531 | INFO     | handlers.city_handler:city_handler:15 - City received: Краснодар
+2024-11-15 19:24:29.531 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Краснодар
+2024-11-15 19:24:29.532 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Краснодар
+2024-11-15 19:24:29.532 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Краснодар
+2024-11-15 19:24:32.910 | INFO     | handlers.city_handler:city_handler:15 - City received: ниггер
+2024-11-15 19:24:32.910 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is ниггер
+2024-11-15 19:24:32.910 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: ниггер
+2024-11-15 19:24:32.910 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: ниггер
+2024-11-15 19:24:41.357 | SUCCESS  | __main__:on_shutdown:29 - Бот остановлен
+2024-11-15 19:24:41.626 | INFO     | __main__:<module>:86 - Работа программы принудительно завершена
+2024-11-15 19:24:51.987 | SUCCESS  | __main__:on_startup:25 - Бот запущен
+2024-11-15 19:24:59.830 | INFO     | handlers.city_handler:city_handler:15 - City received: Ложусь
+2024-11-15 19:24:59.830 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Ложусь
+2024-11-15 19:24:59.831 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Ложусь
+2024-11-15 19:24:59.831 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Ложусь
+2024-11-15 19:25:04.474 | INFO     | handlers.city_handler:city_handler:15 - City received: Пиздец
+2024-11-15 19:25:04.475 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Пиздец
+2024-11-15 19:25:04.475 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Пиздец
+2024-11-15 19:25:04.475 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Пиздец
+2024-11-15 19:25:08.433 | INFO     | handlers.city_handler:city_handler:15 - City received: та иди ты нахуй
+2024-11-15 19:25:08.433 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is та иди ты нахуй
+2024-11-15 19:25:08.433 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: та иди ты нахуй
+2024-11-15 19:25:08.435 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: та иди ты нахуй
+2024-11-15 19:25:11.750 | INFO     | handlers.city_handler:city_handler:15 - City received: from telegram_bot.dialogs import states
+2024-11-15 19:25:11.750 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is from telegram_bot.dialogs import states
+2024-11-15 19:25:11.750 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: from telegram_bot.dialogs import states
+2024-11-15 19:25:11.750 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: from telegram_bot.dialogs import states
+2024-11-15 19:25:17.377 | SUCCESS  | __main__:on_shutdown:29 - Бот остановлен
+2024-11-15 19:25:17.637 | INFO     | __main__:<module>:86 - Работа программы принудительно завершена
+2024-11-15 19:28:46.040 | SUCCESS  | __main__:on_startup:25 - Бот запущен
+2024-11-15 20:42:16.489 | INFO     | handlers.city_handler:city_handler:15 - City received: Новороссийск
+2024-11-15 20:42:16.490 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Новороссийск
+2024-11-15 20:42:16.491 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Новороссийск
+2024-11-15 20:42:16.491 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Новороссийск
+2024-11-15 20:42:24.961 | INFO     | dialogs.forecast:add_favourite:17 - Новороссийск is added to favourites
+2024-11-15 20:42:25.109 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Новороссийск
+2024-11-15 20:42:25.109 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Новороссийск
+2024-11-15 20:42:25.109 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Новороссийск
+2024-11-15 20:42:30.033 | INFO     | handlers.city_handler:city_handler:15 - City received: Москва
+2024-11-15 20:42:30.033 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Москва
+2024-11-15 20:42:30.033 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Москва
+2024-11-15 20:42:30.033 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Москва
+2024-11-15 20:42:42.431 | INFO     | handlers.city_handler:city_handler:15 - City received: Вашингтон
+2024-11-15 20:42:42.432 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Вашингтон
+2024-11-15 20:42:42.433 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Вашингтон
+2024-11-15 20:42:42.433 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Вашингтон
+2024-11-15 20:42:46.878 | INFO     | dialogs.forecast:add_favourite:17 - Вашингтон is added to favourites
+2024-11-15 20:42:47.068 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Вашингтон
+2024-11-15 20:42:47.068 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Вашингтон
+2024-11-15 20:42:47.068 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Вашингтон
+2024-11-15 20:52:58.443 | INFO     | handlers.city_handler:city_handler:15 - City received: Краснодар
+2024-11-15 20:52:58.444 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Краснодар
+2024-11-15 20:52:58.444 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Краснодар
+2024-11-15 20:52:58.444 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Краснодар
+2024-11-15 20:53:12.364 | INFO     | handlers.city_handler:city_handler:15 - City received: Москва
+2024-11-15 20:53:12.364 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Москва
+2024-11-15 20:53:12.364 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Москва
+2024-11-15 20:53:12.364 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Москва
+2024-11-15 20:53:16.135 | INFO     | handlers.city_handler:city_handler:15 - City received: Санкт-Петербург
+2024-11-15 20:53:16.135 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Санкт-Петербург
+2024-11-15 20:53:16.135 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Санкт-Петербург
+2024-11-15 20:53:16.135 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Санкт-Петербург
+2024-11-15 20:53:21.265 | INFO     | handlers.city_handler:city_handler:15 - City received: Краснодар
+2024-11-15 20:53:21.266 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Краснодар
+2024-11-15 20:53:21.266 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Краснодар
+2024-11-15 20:53:21.267 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Краснодар
+2024-11-15 20:53:23.454 | INFO     | handlers.city_handler:city_handler:15 - City received: Москва
+2024-11-15 20:53:23.456 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Москва
+2024-11-15 20:53:23.456 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Москва
+2024-11-15 20:53:23.456 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Москва
+2024-11-15 22:21:26.787 | SUCCESS  | __main__:on_shutdown:29 - Бот остановлен
+2024-11-15 22:21:27.048 | INFO     | __main__:<module>:86 - Работа программы принудительно завершена
+2024-11-20 13:43:16.733 | SUCCESS  | __main__:on_startup:25 - Бот запущен
+2024-11-20 13:43:28.216 | INFO     | handlers.city_handler:city_handler:15 - City received: Москва
+2024-11-20 13:43:28.217 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Москва
+2024-11-20 13:43:28.217 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Москва
+2024-11-20 13:43:28.217 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Москва
+2024-11-20 13:43:38.029 | INFO     | handlers.city_handler:city_handler:15 - City received: Pidorsk2.0
+2024-11-20 13:43:38.029 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Pidorsk2.0
+2024-11-20 13:43:38.029 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Pidorsk2.0
+2024-11-20 13:43:38.029 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Pidorsk2.0
+2024-11-20 13:43:42.488 | INFO     | dialogs.forecast:add_favourite:17 - Pidorsk2.0 is added to favourites
+2024-11-20 13:43:42.636 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Pidorsk2.0
+2024-11-20 13:43:42.636 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Pidorsk2.0
+2024-11-20 13:43:42.636 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Pidorsk2.0
+2024-11-20 13:43:45.395 | INFO     | handlers.city_handler:city_handler:15 - City received: Pidorsk2.0
+2024-11-20 13:43:45.395 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Pidorsk2.0
+2024-11-20 13:43:45.395 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Pidorsk2.0
+2024-11-20 13:43:45.395 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Pidorsk2.0
+2024-11-20 13:43:49.784 | INFO     | handlers.city_handler:city_handler:15 - City received: Пизда
+2024-11-20 13:43:49.785 | INFO     | dialogs.forecast:get_forecast:26 - city in getter is Пизда
+2024-11-20 13:43:49.785 | INFO     | dialogs.forecast:get_forecast:30 - Fetching weather for city in get_forecast: Пизда
+2024-11-20 13:43:49.785 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: Пизда
+2024-11-20 13:43:56.698 | SUCCESS  | __main__:on_shutdown:29 - Бот остановлен
+2024-11-20 13:43:56.952 | INFO     | __main__:<module>:86 - Работа программы принудительно завершена
+2024-11-20 14:53:05.759 | SUCCESS  | __main__:on_startup:25 - Бот запущен
+2024-11-20 14:53:22.319 | INFO     | handlers.city_handler:city_handler:15 - City received: afasjsfjasfja
+2024-11-20 14:53:22.319 | INFO     | dialogs.forecast:get_forecast:27 - city in getter is afasjsfjasfja
+2024-11-20 14:53:22.319 | INFO     | dialogs.forecast:get_forecast:31 - Fetching weather for city in get_forecast: afasjsfjasfja
+2024-11-20 14:53:22.319 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: afasjsfjasfja
+2024-11-20 14:53:29.469 | SUCCESS  | __main__:on_shutdown:29 - Бот остановлен
+2024-11-20 14:53:32.531 | SUCCESS  | __main__:on_startup:25 - Бот запущен
+2024-11-20 14:53:36.654 | INFO     | handlers.city_handler:city_handler:15 - City received: sagfkasjgsgja
+2024-11-20 14:53:36.654 | INFO     | dialogs.forecast:get_forecast:27 - city in getter is sagfkasjgsgja
+2024-11-20 14:53:36.654 | INFO     | dialogs.forecast:get_forecast:31 - Fetching weather for city in get_forecast: sagfkasjgsgja
+2024-11-20 14:53:36.654 | INFO     | telegram_bot.parser:forecast_parser:10 - Fetching weather for city: sagfkasjgsgja
+2024-11-20 14:53:49.159 | SUCCESS  | __main__:on_shutdown:29 - Бот остановлен
+2024-11-20 14:53:49.428 | INFO     | __main__:<module>:86 - Работа программы принудительно завершена

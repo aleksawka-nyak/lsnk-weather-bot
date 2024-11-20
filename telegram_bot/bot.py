@@ -1,15 +1,12 @@
 import asyncio
 
 from aiogram.filters import ExceptionTypeFilter
-from aiogram_dialog import setup_dialogs
 from aiogram.types import ErrorEvent
 from aiogram.types import ReplyKeyboardRemove
 from aiogram_dialog import setup_dialogs, DialogManager
 from aiogram.client.default import DefaultBotProperties
 from aiogram.exceptions import TelegramBadRequest
 from aiogram_dialog.api.exceptions import UnknownIntent
-
-from telegram_bot.dialogs import states
 from aiogram_dialog import StartMode
 from aiogram_dialog import ShowMode
 
@@ -18,10 +15,11 @@ from handlers import routers
 from loguru import logger
 from config import TELEGRAM_BOT_TOKEN
 from aiogram import Bot, Dispatcher
+from telegram_bot.dialogs import states
+
 
 logger.add("logs/bot.log", rotation="10 MB")
 
-dispatcher = Dispatcher()
 
 async def on_startup(dispatcher: Dispatcher):
     logger.success("Бот запущен")
@@ -30,15 +28,17 @@ async def on_startup(dispatcher: Dispatcher):
 async def on_shutdown(dispatcher: Dispatcher):
     logger.success("Бот остановлен")
 
+
 def include_routers(dispatcher: Dispatcher):
     dispatcher.include_routers(*routers)
     dispatcher.include_routers(*dialogs)
+
 
 async def main():
     bot_token = TELEGRAM_BOT_TOKEN
     bot: Bot = Bot(token=bot_token, default=DefaultBotProperties(parse_mode="MarkDown"))
 
-    #dispatcher = Dispatcher()
+    dispatcher = Dispatcher()
     include_routers(dispatcher)
     setup_dialogs(dispatcher)
     dispatcher.startup.register(on_startup)
@@ -47,7 +47,6 @@ async def main():
         on_unknown_intent,
         ExceptionTypeFilter(UnknownIntent),
     )
-
 
     try:
         await dispatcher.start_polling(bot, skip_updates=True)
@@ -78,7 +77,6 @@ async def on_unknown_intent(event: ErrorEvent, dialog_manager: DialogManager):
         mode=StartMode.RESET_STACK,
         show_mode=ShowMode.SEND,
     )
-
 
 
 if __name__ == "__main__":

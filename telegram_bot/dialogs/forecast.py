@@ -1,9 +1,9 @@
 from aiogram.types import CallbackQuery
-from aiogram_dialog import Dialog, Window, DialogManager, ShowMode
-from aiogram_dialog.widgets.input import TextInput
-from aiogram_dialog.widgets.kbd import Button, Start, Row, Back
+from aiogram_dialog import Dialog, Window, DialogManager
+from aiogram_dialog.widgets.kbd import Button
 from aiogram_dialog.widgets.text import Const, Format
 from loguru import logger
+from magic_filter import F
 
 from telegram_bot.keyboards.buttons import favourite_builder
 from telegram_bot.dialogs import states
@@ -43,7 +43,8 @@ dialog = Dialog(
         Button(
             Const("В избранное"),
             id="favourite",
-            on_click=add_favourite
+            on_click=add_favourite,
+            when=F["city"]
         ),
         state=states.Forecast.MAIN,
         getter=get_forecast

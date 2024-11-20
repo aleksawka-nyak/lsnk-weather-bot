@@ -6,6 +6,7 @@ cities = ["Москва",
           "Санкт-Петербург"
 ]
 
+
 async def favourite_builder(message: types.Message, city: str):
     """
     Добавляет текущий город в избранное

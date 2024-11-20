@@ -1,12 +1,12 @@
 from aiogram import Router
-from aiogram_dialog.widgets.input import MessageInput
 from aiogram.types import Message
 from aiogram_dialog import DialogManager, StartMode
-from telegram_bot.dialogs.states import Forecast
-
 from loguru import logger
 
+from telegram_bot.dialogs.states import Forecast
+
 router = Router()
+
 
 @router.message()
 async def city_handler(message: Message, dialog_manager: DialogManager):
