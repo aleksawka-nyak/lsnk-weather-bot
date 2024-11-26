@@ -1,5 +1,5 @@
 loguru~=0.7.2
 aiogram~=3.13.1
 aiogram_dialog~=2.2.0
-requests~=2.32.3
 magic-filter~=1.0.12
+aiohttp~=3.10.10

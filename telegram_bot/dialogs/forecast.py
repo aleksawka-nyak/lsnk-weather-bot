@@ -2,8 +2,8 @@ from aiogram.types import CallbackQuery
 from aiogram_dialog import Dialog, Window, DialogManager
 from aiogram_dialog.widgets.kbd import Button
 from aiogram_dialog.widgets.text import Const, Format
+from aiohttp import ClientResponseError
 from loguru import logger
-from magic_filter import F
 
 from telegram_bot.keyboards.buttons import favourite_builder
 from telegram_bot.dialogs import states
@@ -24,18 +24,21 @@ async def get_forecast(dialog_manager: DialogManager, **kwargs):
     Получает прогноз погоды для заданного города
     """
     city = dialog_manager.start_data["city"]
-    logger.info(f"city in getter is {city}")
-    if not city:
-        logger.warning("City not found in dialog_data. Please check city_handler.")
-        return {"forecast": "Не удалось получить данные о погоде."}
-    logger.info(f"Fetching weather for city in get_forecast: {city}")
-    weather = 'lsnk-weather-bot ' + (await  forecast_parser(city))
+    try:
+        message = await forecast_parser(city)
+        success = True
+    except ClientResponseError as e:
+        if e.status == 404:
+            message = "Город не найден."
+            success = False
+        else:
+            message = "Не удалось получить данные о погоде."
+            success = False
+    markdown_message = f"```lsnk-weather-bot\n{message}```"
+    response = {"success": success, "forecast": markdown_message}
+    logger.debug(f"Forecast for {city} received: {response}")
+    return response
 
-    markdown_weather = f"```{weather}```"
-
-    return {
-        "forecast": markdown_weather
-    }
 
 dialog = Dialog(
     Window(
@@ -44,7 +47,7 @@ dialog = Dialog(
             Const("В избранное"),
             id="favourite",
             on_click=add_favourite,
-            when=F["city"]
+            when="success",
         ),
         state=states.Forecast.MAIN,
         getter=get_forecast
